@@ -1,7 +1,7 @@
-<b>Personal Portfolio Website</b>
+<h1>Personal Portfolio Website</h1>
 <p>Welcome to my personal portfolio website! This website showcases my skills, projects, and contact information.</p>
 
-<b>Technologies Used</b>
+<h3>Technologies Used</h3>
    <ol type="1">
        <li>HTML5</li>
        <li>CSS3</li>
@@ -9,11 +9,11 @@
        <li>JavaScript</li>
    </ol>
 
-<b>Features</b>
+<h3>Features</h3>
    <p>Download CV: Visitors can download my CV to learn more about my qualifications and experiences.</p>
    <p>Connect Me Contact Form: A contact form is provided for visitors to reach out to me directly.</p>
 
-<b>How to Use</b>
+<h3>How to Use</h3>
    <ul>
       <li>Clone this repository to your local machine.</li>
       <li>Open the index.html file in your web browser.</li>
